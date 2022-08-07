@@ -1,4 +1,12 @@
 # ETL_tagaddod
+###files:
+- ETL.py : the main python script that makes the ETL pipeline and can be run using CLI
+- 00- exploring the data.ipynb : just exploring the data and description
+- 01- extraction of data.ipynb : to extract and transform the data
+- 02- visualization.ipynb : to visualize the heat map using the final data
+
+
+### description
 a simple ETL task
 
 in this repository I made an ETL pipeline to do the following:
