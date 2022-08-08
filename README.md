@@ -36,3 +36,11 @@ one json file
 1- reading the json file
 2- converting the columns to the right format
 3- process the rare case where the record contains a dictionary ('meta-data') containing the info
+
+
+### enhancements:
+- added automate.py script to automate the pipe line and move the processed (json) files into a new directory (processed)
+- output the csv files to a new directory (outputs)
+
+### future work and enhancement:
+- we can use spark if the volumn of the data increased and we wanted to use distributed file system
