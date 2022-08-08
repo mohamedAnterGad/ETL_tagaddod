@@ -1,9 +1,11 @@
 # ETL_tagaddod
 ### files:
-- ETL.py : the main python script that makes the ETL pipeline and can be run using CLI
+- automate.py : the main scrip that we can schedule to run every day (for example) to extract all the json files from the directory and output the csv files into outputs directory
+- ETL.py : the python script that makes the ETL pipeline and can be run using CLI
 - 00- exploring the data.ipynb : just exploring the data and description
 - 01- extraction of data.ipynb : to extract and transform the data
 - 02- visualization.ipynb : to visualize the heat map using the final data
+- 03- automation.ipynb : just trying the functions and testing them
 
 
 ### description
