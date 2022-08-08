@@ -11,9 +11,9 @@
 ### description
 a simple ETL task
 
-in this repository I made an ETL pipeline to do the following:
-1- extract the data from the json files (from collector nodes) 
-2- transform the data as following :
+in this repository I made an ETL pipeline to do the following: </br>
+1- extract the data from the json files (from collector nodes) </br>
+2- transform the data as following :</br>
   2.1- change the datetime to date time format </br>
   2.2- fill the nulls in collector_id </br>
   2.3- change the type of latitude , longitude and collector id to float type </br>
